@@ -18,3 +18,6 @@ To get started, clone this repository and open the project in **Godot Engine**.
 
 ## Contributing:
 Feel free to fork this project, open an issue, or submit a pull request if you'd like to contribute!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
